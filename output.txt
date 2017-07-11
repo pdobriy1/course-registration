@@ -1,0 +1,11 @@
+Student_1 A B C 6
+Student_2 A B C 6
+Student_3 A B C 6
+Student_4 A B C 6
+Student_5 A B C 6
+Student_6 A B C 6
+Student_7 A B C 6
+Student_8 A B C 6
+Student_9 A B C 6
+Student_10 A B C 6
+Average preference score is : 5.0
